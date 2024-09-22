@@ -9,6 +9,8 @@ __pycache__/
 .idea
 build/
 develop-eggs/
+.coverage
+.pytest_cache
 dist/
 downloads/
 eggs/
